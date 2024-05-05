@@ -1,0 +1,39 @@
+body {color:white;background-color:black;text-align:center;;font-family: Verdana, Arial, Helvetica, sans-serif;}
+span {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    
+}
+a {
+	color: #f00;
+	text-decoration: none;
+}
+a:hover {
+	color: #951a1a;
+	text-decoration: none;
+}
+.titlepage{
+    font-size: 8em;
+    text-decoration: none;
+    text-align: center;
+    color: #666666;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top:2px;
+}
+.links{
+    font-size:2.3em;
+    background-color: rgb(40, 43, 45);
+    border: 2px solid #939393;
+    padding: 8px;
+}
+.title {
+    font-size: 3em;
+    color: #919191;
+}
+.text {
+    font-size: 20px;
+}
+.img {
+    border: none;
+}

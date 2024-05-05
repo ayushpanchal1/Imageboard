@@ -1,0 +1,31 @@
+body {color:white;background-color:black;font-family: Verdana, Arial, Helvetica, sans-serif;}
+span {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.titlepage{
+    font-size: 8em;
+    text-decoration: none;
+    text-align: center;
+    color: #666666;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+}
+.links{
+    font-size:2.3em;
+    background-color: rgb(40, 43, 45);
+    border: 2px solid #939393;
+    padding: 8px;
+}
+.title {
+    font-size: 3em;
+    color: #919191;
+}
+.text {
+    font-size: 20px;
+}
+.img {
+    position: absolute;
+    left: 55%;
+    border:2px solid rgb(255, 255, 255)
+}
