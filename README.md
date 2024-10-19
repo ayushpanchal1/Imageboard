@@ -2,7 +2,7 @@
 
 This is something I worked with during my first year in engineering as a learning project to get a hang of basic web development skills like php, sql, html and css. Uploaded here to my github for archiving purposes.
 
-A fork of [tinyib-mappy](https://git.ivysaur.me/code.ivysaur.me/tinyib-mappy) with minor cosmetic and functional changes.
+**A fork of [tinyib-mappy](https://git.ivysaur.me/code.ivysaur.me/tinyib-mappy) with minor cosmetic and functional changes.**
 
 # What is this?
 
